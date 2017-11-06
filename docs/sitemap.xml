@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/dimitrisA/anthosite.git/</loc>
+    <loc>https://dimitrisa.github.io/anthosite/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/dimitrisA/anthosite.git/categories/</loc>
+    <loc>https://dimitrisa.github.io/anthosite/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/dimitrisA/anthosite.git/tags/</loc>
+    <loc>https://dimitrisa.github.io/anthosite/tags/</loc>
     <priority>0</priority>
   </url>
   
